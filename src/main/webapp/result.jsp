@@ -1,3 +1,4 @@
+
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
@@ -7,6 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-num1 plus num2:${sumOfNum}
+ num1 plus num2:${sumOfNum}
 </body>
 </html>
