@@ -8,6 +8,9 @@
 <title>Insert title here</title>
 </head>
 <body>
- num1 plus num2:${sumOfNum}
+
+
+
+
 </body>
 </html>
